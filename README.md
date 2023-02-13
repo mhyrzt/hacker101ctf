@@ -3,7 +3,7 @@
 ## A little something to get you started
 
 view the page source and look at the `<style>` section, haaa gocchaa!!
-```css
+```html
 <style>
     body {
         background-image: url("background.png");
